@@ -1,0 +1,8 @@
+- Cohort Analysis Count for Superstore:
+https://public.tableau.com/app/profile/phi.pham.van.hoang/viz/CohortAnalysisCountforSuperstore/CohortCountDashboard
+
+- Cohort Analysis Rate for Superstore
+https://public.tableau.com/app/profile/phi.pham.van.hoang/viz/CohortAnalysisRateforSuperstore/CohortRateDashboard 
+
+- Cohort Analysis Sales for Superstore
+https://public.tableau.com/app/profile/phi.pham.van.hoang/viz/CohortAnalysisforSuperstore/CohortSaleDashboard
